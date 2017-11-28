@@ -95,7 +95,7 @@ translate([0,0,0])inset_shell(1)
 if (0)
 {
 inset_shell(1)
-  cookie_profile("dxf/frontwall_lower2.dxf",12);
+  cookie_profile("dxf/frontwall_lower.dxf",12);
   translate([80,42,8])cube([10,93,2]);
   translate([200,42,8])cube([10,90,2]);
 }
